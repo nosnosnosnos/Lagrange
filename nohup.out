@@ -1,0 +1,247 @@
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[31m  Liquid Exception: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. in sample/2015-12-12-Installation-Guide.md[0m
+[31m             ERROR: YOUR SITE COULD NOT BE BUILT:[0m
+[31m                    ------------------------------------[0m
+[31m                    Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. [0m
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.325 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+    Server address: http://127.0.0.1:4000//
+  Server running... press ctrl-c to stop.
+      Regenerating: 6 file(s) changed at 2017-03-15 23:53:03 [31m  Liquid Exception: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. in sample/2015-12-12-Installation-Guide.md[0m
+...error:
+[33m             Error: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. [0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+      Regenerating: 6 file(s) changed at 2017-03-15 23:53:28 ...done in 0.030792781 seconds.
+      Regenerating: 6 file(s) changed at 2017-03-15 23:53:55 [31m  Liquid Exception: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. in sample/2015-12-12-Installation-Guide.md[0m
+...error:
+[33m             Error: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. [0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+      Regenerating: 12 file(s) changed at 2017-03-15 23:54:06 [31m  Liquid Exception: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. in sample_posts/2015-12-12-Installation-Guide.md[0m
+...error:
+[33m             Error: Could not find post "2015-11-11-Working-With-Jekyll" in tag 'post_url'. Make sure the post exists and the name is correct. [0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+      Regenerating: 6 file(s) changed at 2017-03-15 23:54:13 ...done in 0.06689522 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-15 23:57:54 ...done in 0.081511923 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-15 23:58:41 ...done in 0.05458684 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-15 23:59:41 ...done in 0.067378729 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.124 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+    Server address: http://127.0.0.1:4000//
+  Server running... press ctrl-c to stop.
+      Regenerating: 2 file(s) changed at 2017-03-16 00:01:16 ...done in 0.03195543 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.122 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+    Server address: http://127.0.0.1:4000//
+  Server running... press ctrl-c to stop.
+      Regenerating: 2 file(s) changed at 2017-03-16 00:03:00 ...done in 0.033043793 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.123 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+    Server address: http://127.0.0.1:4000//
+  Server running... press ctrl-c to stop.
+      Regenerating: 2 file(s) changed at 2017-03-16 00:04:08 ...done in 0.036220788 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-16 00:04:54 ...done in 0.038418364 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.123 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+    Server address: http://127.0.0.1:4000//
+  Server running... press ctrl-c to stop.
+      Regenerating: 4 file(s) changed at 2017-03-16 00:07:00 ...done in 0.034880633 seconds.
+      Regenerating: 4 file(s) changed at 2017-03-16 00:07:17 ...done in 0.065761762 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-16 00:07:53 ...done in 0.035120002 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 7.989 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+jekyll 3.4.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+      Regenerating: 1 file(s) changed at 2017-03-18 10:38:52 ...done in 0.306378344 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:41:05 ...done in 0.237606822 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:41:32 ...done in 0.048570149 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.123 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+jekyll 3.4.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+      Regenerating: 1 file(s) changed at 2017-03-18 10:41:47 ...done in 0.086727571 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:41:57 ...done in 0.120714684 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-18 10:42:35 ...done in 0.083331016 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:42:39 ...done in 0.038705232 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-18 10:43:07 ...done in 0.051288439 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-18 10:43:24 ...done in 0.042357144 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:43:51 ...done in 0.040096274 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:44:03 ...done in 0.072916342 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:44:09 ...done in 0.085965696 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-18 10:44:37 ...done in 0.071365409 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:14:40 ...done in 0.130491072 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-19 01:15:00 ...done in 0.075961894 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:15:12 ...done in 0.060353045 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:16:15 ...done in 0.077345262 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:16:21 ...done in 0.070367369 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-19 01:16:26 ...done in 0.051501023 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:20:41 ...done in 0.043461903 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:21:21 ...done in 0.044884785 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:24:11 ...done in 0.041793595 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:24:19 ...done in 0.077632031 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-19 01:24:36 ...done in 0.061825595 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:25:00 ...done in 0.076401761 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:34:28 ...done in 0.072775905 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:37:19 ...done in 0.040193763 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:38:50 ...done in 0.039320449 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:38:59 ...done in 0.072729668 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:41:17 ...done in 0.039553804 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:41:26 ...done in 0.080137043 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:41:45 ...done in 0.075258075 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:41:47 ...done in 0.073175371 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:41:50 ...done in 0.076954149 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:42:15 ...done in 0.10568805 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:42:23 ...done in 0.074107413 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:42:53 ...done in 0.075338221 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:43:26 ...done in 0.040202783 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:45:09 ...done in 0.039427882 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:45:13 ...done in 0.074200847 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:45:57 ...done in 0.040243529 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:46:39 ...done in 0.082114278 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:48:28 ...done in 0.039759572 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:48:29 ...done in 0.072021604 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:55:34 ...done in 0.03989513 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:55:54 ...done in 0.042444044 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:56:56 ...done in 0.080046673 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 01:57:16 ...done in 0.076538937 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:07:47 ...done in 0.038687146 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:08:04 ...done in 0.070853204 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:08:14 ...done in 0.038970572 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:08:25 ...done in 0.04855064 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:08:36 ...done in 0.075278098 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:09:01 ...done in 0.076004282 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:09:23 ...done in 0.075219273 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:09:31 ...done in 0.074396588 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:10:01 ...done in 0.044092216 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:10:06 ...done in 0.058276026 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:14:33 ...done in 0.077983796 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:14:37 ...done in 0.074437985 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:14:43 ...done in 0.043173682 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:14:56 ...done in 0.055942129 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:15:00 ...done in 0.075814319 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:15:12 ...done in 0.039777253 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:15:20 ...done in 0.049015365 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:27:50 ...done in 0.073939988 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:27:53 ...done in 0.074621846 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:28:29 ...done in 0.059660523 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:29:33 ...done in 0.072256353 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:34:09 ...done in 0.075365209 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:34:44 ...done in 0.076845478 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:34:45 ...done in 0.045159841 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:34:45 ...done in 0.07954778 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 02:34:45 ...done in 0.03893763 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:42:56 ...done in 0.055969952 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-19 12:43:01 ...done in 0.080725821 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:43:05 ...done in 0.052309087 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:43:27 ...done in 0.059723431 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-19 12:43:31 ...done in 0.087370876 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:43:39 ...done in 0.080593527 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:43:53 ...done in 0.066245559 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:44:02 ...done in 0.0749475 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-19 12:44:05 ...done in 0.044435724 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:44:08 ...done in 0.049137171 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:44:21 ...done in 0.076310682 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:47:11 ...done in 0.064885987 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:47:38 ...done in 0.078422833 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 12:48:27 ...done in 0.072906276 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:29:25 ...done in 0.040876025 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:29:43 ...done in 0.079501099 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:30:16 ...done in 0.076869385 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:38:27 ...done in 0.083568811 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:41:43 ...done in 0.074176235 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:44:42 ...done in 0.070978992 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:44:56 ...done in 0.050059086 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:45:12 ...done in 0.050237408 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:45:21 ...done in 0.079388374 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:45:26 ...done in 0.055288227 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:45:35 ...done in 0.081329497 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:45:36 ...done in 0.113870137 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:45:50 ...done in 0.077752631 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:46:20 ...done in 0.077270976 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:47:25 ...done in 0.076444354 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:47:43 ...done in 0.046840158 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:47:54 ...done in 0.069993584 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:48:03 ...done in 0.050752812 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:48:20 ...done in 0.048202295 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:49:00 ...done in 0.044804283 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:49:13 ...done in 0.077311182 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:49:32 ...done in 0.038839548 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:49:44 ...done in 0.052185047 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:51:46 ...done in 0.06962419 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:54:10 ...done in 0.078206489 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:57:30 ...done in 0.075960905 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 13:57:50 ...done in 0.041990965 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:00:22 ...done in 0.042123072 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:00:46 ...done in 0.058970322 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:01:27 ...done in 0.069231457 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:04:11 ...done in 0.079211528 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:04:16 ...done in 0.081066986 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:04:26 ...done in 0.044272624 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:04:35 ...done in 0.043717723 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:12:41 ...done in 0.042181878 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:13:43 ...done in 0.041602132 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:22:32 ...done in 0.073370129 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:22:36 ...done in 0.067069012 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:22:40 ...done in 0.055514566 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:22:57 ...done in 0.039993773 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:23:03 ...done in 0.079057097 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:23:21 ...done in 0.044833466 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:23:42 ...done in 0.04749064 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:25:07 ...done in 0.06167682 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:25:29 ...done in 0.055078226 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:25:38 ...done in 0.047461932 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:26:15 ...done in 0.060811515 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:26:54 ...done in 0.066612024 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:27:00 ...done in 0.039606505 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-19 14:30:04 ...done in 0.050442417 seconds.
