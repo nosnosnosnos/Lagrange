@@ -54,4 +54,4 @@ GhostInTheCellというCodingame内のコンテストに参加した際の記録
 ## ソースコード
 
 コンテストで最終コミットしたコードをgithubに上げました  
- [nosnosnosnos/GhostInTheCell](https://en.support.wordpress.com/gist/)
+ [nosnosnosnos/GhostInTheCell](https://github.com/nosnosnosnos/GhostInTheCell)
