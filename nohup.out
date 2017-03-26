@@ -246,3 +246,115 @@ jekyll 3.4.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
       Regenerating: 1 file(s) changed at 2017-03-19 14:27:00 ...done in 0.039606505 seconds.
       Regenerating: 1 file(s) changed at 2017-03-19 14:30:04 ...done in 0.050442417 seconds.
       Regenerating: 1 file(s) changed at 2017-03-19 14:37:44 ...done in 0.064627007 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 12:49:37 ...done in 1.053824916 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-26 12:50:02 ...done in 0.035169439 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 12:50:50 ...done in 0.069992655 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:02:54 ...done in 0.068470989 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:05:28 ...done in 0.053208405 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.659 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+jekyll 3.4.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+      Regenerating: 1 file(s) changed at 2017-03-26 13:05:46 ...done in 0.088260012 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:06:06 ...done in 0.076055657 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:06:07 ...done in 0.099699478 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:07:12 ...done in 0.069190878 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:07:19 ...done in 0.068008224 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:07:38 ...done in 0.071541244 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:08:06 ...done in 0.069964513 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:08:12 ...done in 0.149001145 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:08:15 ...done in 0.070657716 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:10:13 ...done in 0.063596314 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:10:23 ...done in 0.119229221 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:10:31 ...done in 0.072936888 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:10:48 ...done in 0.079199454 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:11:00 ...done in 0.067680683 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:11:03 ...done in 0.187966516 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:11:15 ...done in 0.03683747 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:11:25 ...done in 0.070532567 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:11:30 ...done in 0.044413551 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:12:22 ...done in 0.055069064 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:12:24 ...done in 0.03753691 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:13:38 ...done in 0.037739778 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:13:46 ...done in 0.058782762 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:17:23 ...done in 0.088682627 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:17:48 ...done in 0.070995787 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.387 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+jekyll 3.4.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+      Regenerating: 1 file(s) changed at 2017-03-26 13:18:33 ...done in 0.075059365 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:18:45 ...done in 0.058539878 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:18:52 ...done in 0.071147966 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:19:03 ...done in 0.040740609 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:19:46 ...done in 0.074844358 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:19:57 ...done in 0.070868268 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:21:19 ...done in 0.070942215 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:21:38 ...done in 0.064551485 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:22:53 ...done in 0.045203297 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:23:06 ...done in 0.067675644 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:23:22 ...done in 0.039215027 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:24:29 ...done in 0.037576275 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:24:52 ...done in 0.073773548 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:25:02 ...done in 0.067654875 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:25:19 ...done in 0.043015574 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:25:32 ...done in 0.046033879 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:25:38 ...done in 0.061403421 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:25:47 ...done in 0.03792485 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:25:51 ...done in 0.078439047 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:26:01 ...done in 0.040507502 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:26:36 ...done in 0.047435209 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:28:22 ...done in 0.063713457 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:30:01 ...done in 0.064909483 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:30:47 ...done in 0.075420303 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:31:05 ...done in 0.041470406 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:32:41 ...done in 0.076916396 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:32:47 ...done in 0.0857405 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:33:18 ...done in 0.066727606 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:33:36 ...done in 0.077510549 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:34:35 ...done in 0.041385028 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:34:51 ...done in 0.038214482 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:34:55 ...done in 0.040021004 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:35:37 ...done in 0.098251991 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:35:40 ...done in 0.0714089 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:35:53 ...done in 0.067086683 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:36:44 ...done in 0.050014763 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:36:46 ...done in 0.041419333 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:07 ...done in 0.048941396 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:16 ...done in 0.042528819 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:22 ...done in 0.041409373 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:32 ...done in 0.066536345 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:40 ...done in 0.037101231 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:48 ...done in 0.079421259 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:37:54 ...done in 0.051154838 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:38:20 ...done in 0.06020887 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:38:43 ...done in 0.076731741 seconds.
+      Regenerating: 2 file(s) changed at 2017-03-26 13:39:13 ...done in 0.095143348 seconds.
+[2017-03-26 13:39:20] ERROR `/journal/MeCab.html' not found.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:43:26 ...done in 0.505150324 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:43:44 ...done in 0.041601595 seconds.
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+            Source: /home/owner/git/nosnosnosnos.github.io
+       Destination: /home/owner/git/nosnosnosnos.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.548 seconds.
+ Auto-regeneration: enabled for '/home/owner/git/nosnosnosnos.github.io'
+Configuration file: /home/owner/git/nosnosnosnos.github.io/_config.yml
+jekyll 3.4.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+      Regenerating: 1 file(s) changed at 2017-03-26 13:44:31 ...done in 0.062379311 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:46:47 ...done in 0.062377455 seconds.
+      Regenerating: 1 file(s) changed at 2017-03-26 13:48:15 ...done in 0.043840767 seconds.
