@@ -6,29 +6,32 @@ tags: [codingame,marathon-match]
 image:
   feature: GhostInTheCell.png
   teaser: GhostInTheCell.png
-  credit:
+  credit: 
   creditlink:
 ---
 GhostInTheCellというCodingame内のコンテストに参加した際の記録？感想です  
+<br/>
 
-------------
 ## CodinGameとは
+------------
 プログラミングの学習問題を作成、掲載しているフランスの[サイト](https://www.codingame.com/)です。  
 最近では、1~2ヶ月に一回ゲームAIのコンテストを開催してます。  
 (次回は4月の頭あたり)  
-問題やコンテストに参加する際、ブラウザ内でIDEが使えるので中々便利
+問題やコンテストに参加する際、ブラウザ内でIDEが使えるので中々便利  
+<br/>
 
 
------------
 ## Ghost in the Cell
+-----------
 
 今回のコンテストは2月26日から8日間に渡り行われました  
 ルールとしては、お互い1つの工場からスタートし生産したユニットを使って陣取り合戦を行うゲーム  
 各工場には生産力が設定されていて、制圧することによって自軍のユニットを生産できます  
-(その他 細かいルールとしてボムや生産力アップなどもあります)
+(その他 細かいルールとしてボムや生産力アップなどもあります)  
+<br/>
 
------------
 ## 感想
+-----------
 コンテストの結果は3508人中 324位でした([ランキング](https://www.codingame.com/leaderboards/challenge/ghost-in-the-cell/global))。  
 レジェンドリーグに行きたかったけど、ゴールドのボスが倒せなかった 悔しい…  
 
@@ -49,9 +52,11 @@ GhostInTheCellというCodingame内のコンテストに参加した際の記録
 ↑ 各工場間の距離は直線距離以上に早い区間が存在して、別の工場経由なら２倍以上早くなる経路があるのを完全に考慮してなかった  
 ↑ これ、強くなった時に気づいておくべきだった
 ~~~
+<br/>
 
-----------
 ## ソースコード
+----------
 
 コンテストで最終コミットしたコードをgithubに上げました  
  [nosnosnosnos/GhostInTheCell](https://github.com/nosnosnosnos/GhostInTheCell)
+ <br/>

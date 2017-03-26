@@ -9,7 +9,7 @@ image:
   credit:
   creditlink:
 ---
-cygwin環境へMeCabとUTF８の辞書を入れる際に、色々と大変だったので健忘録的な記事です
+cygwin環境へMeCabとUTF８の辞書を入れる際に、色々と大変だったので健忘録的な記事です  
 
 ## MeCabと辞書のインストール
 ------------
